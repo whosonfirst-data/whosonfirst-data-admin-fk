@@ -206,7 +206,6 @@
     "src:geom":"naturalearth",
     "wof:belongsto":[
         85632211,
-        85681209,
         102191577,
         136253055
     ],
@@ -223,14 +222,13 @@
             "country_id":-1,
             "dependency_id":85632211,
             "empire_id":136253055,
-            "locality_id":1141908379,
-            "region_id":85681209
+            "locality_id":1141908379
         }
     ],
     "wof:id":1141908379,
     "wof:lastmodified":1690893288,
     "wof:name":"Fox Bay",
-    "wof:parent_id":85681209,
+    "wof:parent_id":85632211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fk",
     "wof:superseded_by":[],

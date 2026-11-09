@@ -417,7 +417,6 @@
     "src:population":"geonames",
     "wof:belongsto":[
         85632211,
-        85681209,
         102191577,
         136253055
     ],
@@ -441,14 +440,13 @@
             "country_id":-1,
             "dependency_id":85632211,
             "empire_id":136253055,
-            "locality_id":1126015537,
-            "region_id":85681209
+            "locality_id":1126015537
         }
     ],
     "wof:id":1126015537,
     "wof:lastmodified":1706239532,
     "wof:name":"Stanley",
-    "wof:parent_id":85681209,
+    "wof:parent_id":85632211,
     "wof:placetype":"locality",
     "wof:population":2213,
     "wof:population_rank":4,
