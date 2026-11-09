@@ -45,7 +45,7 @@
         "wk:page":"Dunnose_Head"
     },
     "wof:country":"FK",
-    "wof:geomhash":"946701cc083e0dd3d1c339a56a367a72",
+    "wof:geomhash":"2905dbb4bbc7535f7e418acc6442a522",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -72,5 +72,5 @@
     -60.41656999999999,
     -51.74147
 ],
-  "geometry": {"coordinates":[-60.41656999999999,-51.74147],"type":"Point"}
+  "geometry": {"coordinates":[-60.41657,-51.74147],"type":"Point"}
 }

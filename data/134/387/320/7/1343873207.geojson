@@ -53,7 +53,7 @@
         "wk:page":"North_Arm"
     },
     "wof:country":"FK",
-    "wof:geomhash":"cc5ee6e4a6f82f6a3ddbfff8e6fbf7b2",
+    "wof:geomhash":"741555bb1c6f8059b64e9c27b002c59f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,5 +80,5 @@
     -59.36763000000001,
     -52.12373
 ],
-  "geometry": {"coordinates":[-59.36763000000001,-52.12373],"type":"Point"}
+  "geometry": {"coordinates":[-59.36763,-52.12373],"type":"Point"}
 }

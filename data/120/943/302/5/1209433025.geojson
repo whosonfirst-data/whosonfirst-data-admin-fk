@@ -42,7 +42,7 @@
         "gn:id":3831765
     },
     "wof:country":"FK",
-    "wof:geomhash":"4538714fd4c9b50bae4cfd3572c7150e",
+    "wof:geomhash":"7c20c65815b02e5d79a3e72592679758",
     "wof:hierarchy":[
         {
             "dependency_id":85632211,
@@ -65,5 +65,5 @@
     -60.45588000000001,
     -51.82968
 ],
-  "geometry": {"coordinates":[-60.45588000000001,-51.82968],"type":"Point"}
+  "geometry": {"coordinates":[-60.45588,-51.82968],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"Salvador_Settlement"
     },
     "wof:country":"FK",
-    "wof:geomhash":"f4194b83f51ec052783151df4f93a6b8",
+    "wof:geomhash":"7f752977fa647ee80d563a2c28b84b16",
     "wof:hierarchy":[
         {
             "dependency_id":85632211,
@@ -69,5 +69,5 @@
     -58.37199,
     -51.43409000000001
 ],
-  "geometry": {"coordinates":[-58.37199,-51.43409000000001],"type":"Point"}
+  "geometry": {"coordinates":[-58.37199,-51.43409],"type":"Point"}
 }

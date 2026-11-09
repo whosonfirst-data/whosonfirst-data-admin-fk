@@ -48,7 +48,7 @@
         "wk:page":"Douglas%2C_Falkland_Islands"
     },
     "wof:country":"FK",
-    "wof:geomhash":"8eb3cb38470c0b1caaa571dd868c50b0",
+    "wof:geomhash":"a0e790562e2a57daca6a43207c2b7307",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -58.60883000000001,
     -51.45986
 ],
-  "geometry": {"coordinates":[-58.60883000000001,-51.45986],"type":"Point"}
+  "geometry": {"coordinates":[-58.60883,-51.45986],"type":"Point"}
 }

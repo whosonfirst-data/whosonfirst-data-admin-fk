@@ -49,7 +49,7 @@
         "gn:id":3831908
     },
     "wof:country":"FK",
-    "wof:geomhash":"7c877c1db438079872d1b36c51ecec92",
+    "wof:geomhash":"6ee89142fcd31c20c1ce7e2ab909f90b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -60.11559000000001,
     -51.49741
 ],
-  "geometry": {"coordinates":[-60.11559000000001,-51.49741],"type":"Point"}
+  "geometry": {"coordinates":[-60.11559,-51.49741],"type":"Point"}
 }
